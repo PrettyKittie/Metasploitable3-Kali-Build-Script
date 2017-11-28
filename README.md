@@ -29,5 +29,6 @@ Any changes or customizations made to the OS may cause this script to
 fail, or break some other local functionality.  Never run any code
 without reviewing it first.
 
-REMEMBER;
+
+REMEMBER
 # Trust, but verify!
